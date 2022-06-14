@@ -2,3 +2,8 @@
 	path = airsrl/l10n-italy-MIG-14.0-fiscal_epos_print
 	url = git@github.com:airsrl/l10n-italy-MIG-14.0-fiscal_epos_print.git
 	branch = MIG-14.0-fiscal_epos_print
+
+[submodule "OCA/l10n-italy"]
+	path = OCA/l10n-italy
+	url = git@github.com:OCA/l10n-italy.git
+	branch = 14.0
