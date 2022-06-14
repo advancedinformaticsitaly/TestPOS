@@ -1,0 +1,4 @@
+[submodule "airsrl/l10n-italy-MIG-14.0-fiscal_epos_print"]
+	path = airsrl/l10n-italy-MIG-14.0-fiscal_epos_print
+	url = git@github.com:airsrl/l10n-italy-MIG-14.0-fiscal_epos_print.git
+	branch = MIG-14.0-fiscal_epos_print
